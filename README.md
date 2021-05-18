@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wedexe
+- 👋 Hi, I’m Weslley David
 - 👀 I’m interested in web dev, game dev and mobile aplications 
 - 🌱 I’m currently learning ADS - IFPI(Central Campus) 
 - 💞️ I’m looking to collaborate on dev and infosec
