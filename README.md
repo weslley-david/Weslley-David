@@ -1,4 +1,5 @@
-<i>Weslley David</i>
+<h1>Weslley David</h1>
+<!-- 
 - 👋 Hi, I’m Weslley David
 - 👀 I’m interested in web dev and game dev
 - 🌱 I’m currently learning ADS - IFPI(Central Campus) 
