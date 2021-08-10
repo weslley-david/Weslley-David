@@ -1,7 +1,7 @@
 <h1>Weslley David</h1>
 <tr>
 <div>
-  <ul>
+  <ul color = "#141414">
     <li><i>Bem vindo ao meu humilde portifólio, por enquanto não há muito para ver, mas tento crescer a cada dia. </i></li>
   </ul>
 </div>
