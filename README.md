@@ -2,7 +2,8 @@
 <tr>
 <div>
   <ul color = "#ffffff">
-    <li><i>Bem vindo ao meu humilde portifólio, por enquanto não há muito para ver, mas tento crescer a cada dia. </i></li>
+    <li><i>Oi, eu acho que sou o Weslley. </i></li>
+    <li><i>Gosto de estudar e constuir coisas legais.</i></li>
   </ul>
 </div>
 
