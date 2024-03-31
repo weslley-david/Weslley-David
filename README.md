@@ -1,23 +1,23 @@
-<h1>Weslley David</h1>
-Don't say-me yooooooooooooooo!
-<!--Conflito entre vontade e dever-->
+# ✨*Weslley David*✨
+---
 
-<tr>
-<div>
-  <ul color = "#ffffff">
-    <li></li>
-     <!--<li><i>jfqpor ptwhwertrrj twe gj fjsdfkjgh9e</i></li>-->
-    <!--<li><i>Oi, eu acho que sou o Weslley. </i></li>
-    <li><i>Gosto de estudar e constuir coisas legais.</i></li>-->
-  </ul>
-</div>
+Olá,
 
-<!-- 
-- 👋 Hi, I’m Weslley David
-- 👀 I’m interested in web dev and game dev
-- 🌱 I’m currently learning ADS - IFPI(Central Campus) 
-- 💞️ I’m looking to collaborate on Dev media
-- 📫 How to reach me https://www.linkedin.com/in/weslley-david-2bb5b2183
+atualmente estudando **ADS** no **IFPI** e *tentando me tornar uma pessoa melhor através de código*.
+Furamente pretendo focar no desenvolvimento de soluções para empresas Automotivas utilizando GO.
+
+## Q&A
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=SETUP&message=PC%20Mint%20i5%208gb&color=green&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=TECNOLOGIA%20PREFERIDA&message=SQL&color=purple&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STACK&message=BACKEND&color=red&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=FRAMEWORK&message=GIN&color=blue&style=for-the-badge)
+---
+## Atualmente estou estudando:
+- Golang
+- ODB & Injeção eletrônica
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <!---
 wedexe/wedexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
