@@ -1,4 +1,4 @@
-# ✨*Weslley David*✨
+# *Weslley David*
 ---
 
 Olá,
