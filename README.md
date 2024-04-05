@@ -11,7 +11,7 @@ Furamente pretendo focar no desenvolvimento de soluções para empresas Automoti
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=SETUP&message=PC%20Mint%20i5%208gb&color=green&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=TECNOLOGIA%20PREFERIDA&message=SQL&color=purple&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STACK&message=BACKEND&color=red&style=for-the-badge)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=FRAMEWORK&message=GIN&color=blue&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=DATABASE&message=POSTGRES&color=blue&style=for-the-badge)
 ---
 ## Atualmente estou estudando:
 - Golang
